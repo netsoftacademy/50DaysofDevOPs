@@ -1,4 +1,4 @@
-# 90Days of DevOps Challenge
+# 50Days of DevOps Challenge
 Learn, Upskill, Growth with the DevOps Community
 Hello Team,
 "Join our DevOps Learning Community and embark on a 90-day DevOps journey where you can explore various concepts such as:"
