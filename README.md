@@ -11,4 +11,4 @@ F) Container, Images tools- Docker
 G) Infrastructure as a Code- Terraform
 H) Ansilbe
 I) Monitoring- Prometheus and Grafana
-K) At the end of Learning we have Deployed 8 Live Projects via Various DevOps Tools.
+K) At the end of Learning we have Deployed 8 Live Projects via Various DevOps Tools..
