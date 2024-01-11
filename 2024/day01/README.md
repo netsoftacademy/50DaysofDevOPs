@@ -15,4 +15,4 @@ Topics Covrs:-
 - Student Work:
 - Write an Article & post it on LinkedIn about your Understanding in DevOps
 
-[Next Day →] (../day02/README.md)
+[Next Day →](../day02/README.md)
