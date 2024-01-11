@@ -1,7 +1,7 @@
 ## Introduction - Day 1
 From the day 1 you can start your learning and challenges and start your Journey #50DaysofDevops Learning with NetSoft Tuitions.
 
-Topics Covrs:-
+- Topics Covers:-
 - What is DevOps?
 - What are the Services in Cloud IaaS, SaaS, PaaS
 - Various Tools Used in AWS, Azure and GCP.
