@@ -4,7 +4,7 @@
 
   - Below is the index of 50Days of DevOps Journey Day wise that awaits you 
 
-### [Day 1-7 : Introduction of DevOps, Linux basics to Advances & Bash Shell Scripting for DevOpe Engineers)
+### [Day 1-7 : Introduction of DevOps, Linux basics to Advances & Bash Shell Scripting for DevOpe Engineers](./2024/day01/)
 
   - Description:-Start your DevOps Journey with Linux & Shell Scripting)
   - Topics Covered: 
