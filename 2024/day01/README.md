@@ -8,6 +8,7 @@ From the day 1 you can start your learning and challenges and start your Journey
 - How to Create an AWS Standalne Account Free-Tier
 - Explain AWS: Regions, Availability Zones.
 - Click on Below Link for Notes:
+- Reference:- https://www.linkedin.com/pulse/day-1-getting-started-devops-maninder-singh/?trackingId=p7jNuaRmTdqeSD9MxGzhfA%3D%3D
 - Link:-
 
 
