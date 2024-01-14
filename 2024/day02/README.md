@@ -3,7 +3,7 @@
   - Linux File System Hierarchichal Structure 
   - Explain the /Root /home /tmp /bin /usr /local /media /proc etc/
   - Hands on Linux Basic to Advanced Commands
-  - File and Directory operations Commands:-
+##  File and Directory operations Commands:-
   - ls (ls -l) (ls -a) (ls -h) (
   - cd changge Directory
   - pwd 
