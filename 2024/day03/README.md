@@ -1,4 +1,4 @@
-##   Day 3 Getting Started with Advances Linux
+##   Day 3 Getting Started with Advanced Linux
 
 ## File Permissions Commnads
 
