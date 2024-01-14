@@ -6,7 +6,7 @@
 
 ### [Day 1-7 : Introduction of DevOps, Linux basics to Advances & Bash Shell Scripting for DevOpe Engineers](./2024/day01/)
 
-  - Description:-Start your DevOps Journey with Linux & Shell Scripting)
+  - Description:-Start your DevOps Journey with Linux & Shell Scripting
   - Topics Covered: 
   - [Getting Started with DevOps, Cloud Sevices & AWS Basics](./2024/day01/README.md)
   - [Getting Started with Linux](./2024/day02/README.md)
