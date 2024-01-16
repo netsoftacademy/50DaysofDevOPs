@@ -1,4 +1,4 @@
-## Day 10 AWS EC2
+## Day 10 AWS EC2 (Elastic Cloud Compute)
 
  - Getting started with Elastic Cloud Compute
  - What is AWS Budeget
