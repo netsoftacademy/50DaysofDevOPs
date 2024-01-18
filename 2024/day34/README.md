@@ -16,3 +16,10 @@
   - Student work: Write an Article & post it on LinkedIn of Code Deploy and Code Pipeline
 
  [← Previous Day](../day33/README.md) | [Next Day →](../day35/README.md)
+
+
+ ## End of the Session 
+ - Next Topic
+ - AWS Interview Questions & Answes for Interview
+ - Exam
+ - AWS Solution Architect Associate SAA-CO3
