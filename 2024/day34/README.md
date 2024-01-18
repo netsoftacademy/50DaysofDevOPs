@@ -20,6 +20,6 @@
 
  ## End of the Session 
  - Next Topic
- - AWS Interview Questions & Answes for Interview
+ - Interview Question AWS
  - Exam
  - AWS Solution Architect Associate SAA-CO3
