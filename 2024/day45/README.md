@@ -14,4 +14,3 @@
 
   - Student work: Write an Article & post it on LinkedIn above topic
  [← Previous Day](../day44/README.md) | [Next Day →](../day46/README.md)
-
