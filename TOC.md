@@ -47,3 +47,17 @@
   - [Container Management AWS](./2024/day33/README.md)
   - [AWS EKS (Part -2)](./2024/day34/README.md)
   - [AWS Solution Architect Exam and Interview Questions on AWS](./2024/day35/README.md)
+
+### [Day 36-45 : Getting started with DevOps tools, Terraform, Docker and Kubernetes](./2024/day36/)
+  - Description:-Start your DevOps Journey with Terraform, Docker and Kubernetes
+  - Topics Covered: 
+  - [Infrastructure as a Code (IaC) Terraform](./2024/day36/README.md)
+  - [Terraform (Part -2)](./2024/day37/README.md)
+  - [Terraform (Part -3)](./2024/day38/README.md)
+  - [Getting Started with Package Management Docker](./2024/day39/README.md)
+  - [Docker (Part -2)](./2024/day40/README.md)
+  - [Docker (Part -3)](./2024/day41/README.md)
+  - [Getting Started Container Orchestration Kubernetes](./2024/day42/README.md)
+  - [Kubernetes (Part -2)](./2024/day43/README.md)
+  - [Kubernetes (Part -3)](./2024/day44/README.md)
+  - [Kubernetes (Part -4)](./2024/day45/README.md)
