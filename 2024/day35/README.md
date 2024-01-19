@@ -36,7 +36,7 @@
   - If you fail, you can retake the exam again 14 days later
 
 ## Download the exam guide
-Read [this] (https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) exam guide before start the Exam
+Read [this](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) exam guide before start the Exam
 
   - Click on the Link to start the Exam
 
