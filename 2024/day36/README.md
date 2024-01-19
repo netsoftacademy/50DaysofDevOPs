@@ -16,4 +16,4 @@
 
   - Student work: Write an Article & post it on LinkedIn of Terraform, Installation, Terraform & Providers
 
- [← Previous Day](../day36/README.md) | [Next Day →](../day38/README.md)
+ [← Previous Day](../day35/README.md) | [Next Day →](../day37/README.md)
