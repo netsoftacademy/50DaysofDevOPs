@@ -1,6 +1,6 @@
 ## Getting Started our Journey with DevOps:
 
-## Day 37 Infrastructure as a Code (IaC) Terraform
+## Day 36 Infrastructure as a Code (IaC) Terraform
 
  - Introduction to Infrastructure as a Code
  - What are the challenges in IT Infrastructure without Terraform
