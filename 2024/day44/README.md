@@ -1,4 +1,4 @@
-## Day 44 Kubernetes (Part -2)
+## Day 44 Kubernetes (Part -3)
 
   - Hands on Secrets with YAML file
   - Explain the Config map in Kubernetes
