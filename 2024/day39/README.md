@@ -1,4 +1,4 @@
-## Day 39 Getting Started with Container Management Docker
+## Day 39 Getting Started with Package Management Docker
 
   - Getting started with Virtualisation in Docker
   - Explain the Architecture of Docker 
