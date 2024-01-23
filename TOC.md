@@ -61,3 +61,7 @@
   - [Kubernetes (Part -2)](./2024/day43/README.md)
   - [Kubernetes (Part -3)](./2024/day44/README.md)
   - [Kubernetes (Part -4)](./2024/day45/README.md)
+
+### [Day 46+ Comprehensive Dive into DevOps Projects](./2024/day46/)
+  - [Deploy a Project Webapp Application with help of Jenkins Pipeline, GitHub and Docker](./2024/day46/README.md)
+  - [Hosting a static Website using an AWS S3 Bucket](./2024/day47/README.md)
