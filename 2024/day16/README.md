@@ -6,8 +6,6 @@
  - How to Setup the Route53 EC2 setup in AWS
  - Explain the Record types in AWS A, AAAA, CNAME, TXT,MX, SOA
  - What is Route 53 Routing Policies & Types
- - Hands on Simple, Weighted & Latency policy in AWS
-
 
   - Today Sessions Notes:
   - Link
