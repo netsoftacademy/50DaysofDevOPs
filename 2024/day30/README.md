@@ -9,7 +9,7 @@
  - How Amazon Bedrock Serivice works in AI
 
  
-  - Today Sessions Notes Chat GPT Prompts and Cheat Sheet for ChatGPT
+  - Today Sessions Notes ChatGPT Prompts and Cheat Sheet for ChatGPT
   - Link
 
   - Student work: Write an Article & post it on LinkedIn of Artifical Intelligence, Machine, Deep Learning, GAN & Amazon BedRock Service in AWS
