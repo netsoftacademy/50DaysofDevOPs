@@ -2,7 +2,7 @@
 
  - What is Health Chcks in AWS
  - Explain the Routing policy Failover, Geolocation, Geoproximity
- - Hands on AWS for Route 53 ploicy Failover, Geolocation, Geoproximity
+ - Hands on AWS for Route 53 policy Failover, Geolocation, Geoproximity
  - How to Register a 3rd Domain in Route 53
  - How to Clean up Section in Route 53
  - Hands on Simple, Weighted & Latency policy in AWS
