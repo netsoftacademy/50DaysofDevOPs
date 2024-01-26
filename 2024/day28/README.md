@@ -1,6 +1,6 @@
 ## Day 28 Networking VPC Advanced (Part -2)
 
- - Getting started wih Site to Site VPN
+ - Getting started with Site to Site VPN
  - Hands on Site to Site VPN
  - Explain the Transit Gateway, Traffic Mirroring
  - Explain the AWS Network Firewall
