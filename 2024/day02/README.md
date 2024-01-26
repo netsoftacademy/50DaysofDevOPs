@@ -1,5 +1,5 @@
 ##   Day 2 Getting Started with Linux
-  -  Task: What is Linux 
+  - What is Linux 
   - Linux File System Hierarchichal Structure 
   - Explain the /Root /home /tmp /bin /usr /local /media /proc etc/
   - Hands on Linux Basic to Advanced Commands
@@ -20,9 +20,8 @@
   
   - Today Sessions Notes:
 
-
   - Student work:
-  - Write an Article & post it on LinkedIn the Linux Commands
+  - Write an Article & post it on LinkedIn Linux Commands
   - Reference Article:- https://medium.com/@manindersingh9804/basics-linux-commands-c3eccbc02ce2
 
 
