@@ -1,6 +1,6 @@
 ## Day 42 Getting Started Container Orchestration Kubernetes
 
-  - Introduction of Kubernetes & Feature of Kubernetes
+  - Introduction to Kubernetes & feature of Kubernetes
   - Explain Kubernetes Architecure in Depth
   - Explain the Concept of Node & Pod
   - Installation of Kubernets in AWS with CLI
