@@ -5,7 +5,7 @@
  - How to Configure the AWS CLI with Access Key and Secret Key
  - Kubernetes tools setup Install kubectl, eksctl
  - How to setup EKS Cluster Setup & verify Nodes
- - Basic to Advnaced EKS Commands
+ - Basic to Advanced EKS Commands
 
  
   - Today Sessions Notes:
