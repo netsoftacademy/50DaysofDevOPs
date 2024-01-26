@@ -1,9 +1,9 @@
 ## Day 6 Bash Shell Scripting Advanced (Part -2)
 
-## Bash Shell Scripting Passing the Argumnents
+## Bash Shell Scripting Passing the Arguments
 
   - Passing the Argument in Script
-  - Using the system Reserved Variables & Execute with hold 4 wowrds
+  - Using the system Reserved Variables & Execute with hold 4 words
   - Using the Multiple Arguments which are given by the user & Execute the script 
  
 
@@ -24,6 +24,5 @@
 
   - Student work:
   - Write an Article & post it on LinkedIn of Passing the Arguments, if,then,Else & Else-if Statement,file Test operators
-  - Reference Article:- 
  
 [← Previous Day](../day05/README.md) | [Next Day →](../day07/README.md)
