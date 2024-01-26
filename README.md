@@ -25,7 +25,7 @@ Let's come together to grow and achieve new heights in DevOps!
 - Docker
 - Kubernetes
 - 3+ Hands on Industry Projects
-- 90 Days of DevOps E-Learning Book
+- 90 Days of DevOps Learning EBook
 
 ## Wish you all the Best !! Happy Learning
 ## NetSoft Tuitions
