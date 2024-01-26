@@ -1,7 +1,7 @@
 ## Day 37 Terraform (Part -2)
 
  - Explain the Terraform state
- - Brief Introduction of terraform website portal 
+ - Brief Introduction of Terraform Website portal 
  - Explain Terraform with Docker
  - Terraform Providers & Resources Hands on
  - Explain the Terraform with AWS
