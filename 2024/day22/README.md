@@ -1,7 +1,7 @@
 ## Day 22 AWS Serverless 
 
  - What is Serverless & how it works in AWS?
- - Why AWS Lambda, Benefits of Lambds & support language
+ - Explain AWS Lambda, Benefits of Lambds & support language
  - Explain the Triggers, Invocation types and Lambda Configurations
  - Hands one Project AWS Lambda
  
