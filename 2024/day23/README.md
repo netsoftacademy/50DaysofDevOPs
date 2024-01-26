@@ -2,8 +2,8 @@
 
  - Explain the basics of Amazon Dynamo DB
  - What is the Read/Write Capacity Modes
- - DynamoDB Backups for disaster recovery and Hands on
- - Describe the AWS API Gateway, Endpoint Types & Hands on
+ - DynamoDB Backups for disaster recovery Hands on
+ - Describe the AWS API Gateway, Endpoint Types Hands on
  
 
 
