@@ -22,7 +22,7 @@
 ## How will the Exam work?
 
   - You have register online at https://www.aws.training/
-  - Fee for the exam is 15USD
+  - Fee for the exam is 150USD
   - Provide One Identity document (ID,Passport,details are in emails sent to you)
   - No notes are allowed, no pen is allowed no speaking
   - 65 questions will be asked in 130 minutes
