@@ -5,7 +5,7 @@
  - Introduction to Infrastructure as a Code
  - What are the challenges in IT Infrastructure without Terraform
  - Define Terraform & Installation in AWS CLI
- - Explain the HCL Language & Blocks and Arguments
+ - Explain the HCL Language,Blocks and Arguments
  - How to Execute the Infrastructure (Init, Plan & Apply)
  
 
@@ -14,6 +14,6 @@
   - Terraform Interview Questions
   - Link
 
-  - Student work: Write an Article & post it on LinkedIn of Terraform, Installation, Terraform & Providers
+  - Student work: Write an Article & post it on LinkedIn of Terraform, Installation, Terraform Providers
 
  [← Previous Day](../day35/README.md) | [Next Day →](../day37/README.md)
