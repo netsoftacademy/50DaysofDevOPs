@@ -1,4 +1,4 @@
-##   Day 3 Getting Started with Advanced Linux
+##   Day 3 Started with Advanced Linux (Part -2)
 
 ## File Permissions Commnads
 
@@ -26,7 +26,7 @@
 
 
   - Student work:
-  - Write an Article & post it on LinkedIn the Linux Commands
+  - Write an Article & post it on LinkedIn Linux Commands
   - Reference Article:- https://www.linkedin.com/pulse/day-5-task-linux-permissions-access-control-lists-maninder-singh/?trackingId=90AH2cAoTn2kToJ%2F6pt7WA%3D%3D
  
 [← Previous Day](../day02/README.md) | [Next Day →](../day04/README.md)
