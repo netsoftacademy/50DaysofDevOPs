@@ -1,4 +1,4 @@
-##   Day 4 Getting Started with Advanced Linux (Part -2) (End of Session)
+##   Day 4 Started with Advanced Linux (Part -3) (End of Session)
 
 ## User Management Commands
 
@@ -40,7 +40,7 @@
 
 
   - Student work:
-  - Write an Article & post it on LinkedIn the Linux Commands
+  - Write an Article & post it on LinkedIn Linux Commands
   - Reference Article:- https://lnkd.in/dBm2UkbC
  
 [← Previous Day](../day03/README.md) | [Next Day →](../day05/README.md)
