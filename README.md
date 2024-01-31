@@ -28,5 +28,5 @@ Let's come together to grow and achieve new heights in DevOps!
 - 90 Days of DevOps Learning EBook
 
 ## Wish you all the Best !! Happy Learning
-## NetSoft Tuitions
+## NetSoft Tuition
   
