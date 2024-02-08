@@ -17,14 +17,14 @@ Let's come together to grow and achieve new heights in DevOps!
 ## Following topics are included in these 50Days of DevOps Journey
 - Linux
 - Shell Scritping
-- AWS Services 13+ Hands on
+- AWS Services 10+ Hands on (EC2, IAM, Load Balancers, Disaster Recovery, S3 Bucket, Route 53, Cloud Front, Cloud Watch, VPC &  Generative AI for DevOps.
 - One Exam Paper AWS Solution Architect Associate SAA-C03
-- AWS Code Commit
-- AWS Pipeline
-- Terraform
-- Docker
-- Kubernetes
-- 3+ Hands on Industry Projects
+- Source Code Management: Git
+- CI/CD Pipeline: Jenkins
+- IAC: Terraform
+- Image Management: Docker
+- Container Management: Kubernetes
+- 2+ Hands on Industry Projects
 - 90 Days of DevOps Learning EBook
 
 ## Wish you all the Best !! Happy Learning
