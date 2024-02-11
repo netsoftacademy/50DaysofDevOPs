@@ -1,17 +1,14 @@
-## Day 15 Databases in AWS (Part -2)
+## Day 15 Load Balancers (Part -2)
 
- - Hands how to create a Amazon Aurora
- - Explain Auora Backups & Restore Points
- - Hands on Amazon Relational Database Service 
- - What is Amazon Aurora & its features
- - What is Dynamo DB. How to create the Table
+ - Getting Started Elastic Load Balancer Sticky Sessions
+ - Explain the Cross Zone Load Balancing
+ - What is SSL Certifcates, How to create Certificates Hands on
+ - Explain Auto Scaling Groups (ASG) in AWS
+ - Today Sessions Notes:
+ - Link
+ - Load Balancer in AWS M.C.Q Quiz for Exam point of View
+ - Link
 
-
-  - Today Sessions Notes:
-  - Link
-  - Databases in AWS M.C.Q Quiz for Exam point of View
-  - Link
-
-  - Student work: Write an Article & post it on LinkedIn of Amazon Aurora & Dynamo DB in AWS 
+  - Student work: Write an Article & post it on LinkedIn of Sticky Sessions & SSL Certificiates in AWS
 
  [← Previous Day](../day14/README.md) | [Next Day →](../day16/README.md)
