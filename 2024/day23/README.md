@@ -1,17 +1,17 @@
-## Day 23 AWS Serverless Advanced (Part -2)
+## Day 23 AWS CloudFront Advanced (Part -2)
 
- - Explain the basics of Amazon Dynamo DB
- - What is the Read/Write Capacity Modes
- - DynamoDB Backups for disaster recovery Hands on
- - Describe the AWS API Gateway, Endpoint Types Hands on
+ - How to give path for CloudFront Path Based routing with Multiple Origin
+ - Hands on CloudFront Custom Error Page
+ - How to Control the Access to your Content Based on Country CloudFront
+ - Hands on Disable CloudFront Distribution how to delete it
  
 
 
   - Today Sessions Notes:
   - Link
-  - AWS Serverless M.C.Q Quiz for Exam point of View
+  - AWS CloudFront Basics to Advanced M.C.Q Quiz for Exam point of View
   - Link
 
-  - Student work: Write an Article & post it on LinkedIn of Amazon DynamoDB, Types & AWS API Gateway
+  - Student work: Write an Article & post it on LinkedIn of Below services in CloudFront
 
  [← Previous Day](../day22/README.md) | [Next Day →](../day24/README.md)
