@@ -1,9 +1,9 @@
 ## Day 29 Networking VPC Advanced (Part -3)
 
- - Getting started with Site to Site VPN
- - Hands on Site to Site VPN
+ - Getting started with AWS VPC Flow logs 
+ - What is Site to Site VPN in AWS Virtual Private Gateway
  - Explain the Transit Gateway, Traffic Mirroring
- - Explain the AWS Network Firewall
+ - Explain the Egress Onlu Internet Gatway in AWS
 
  
   - Today Sessions Notes:
