@@ -1,11 +1,13 @@
 ## Day 27 Networking VPC
 
  - Getting started with CIDR IPv4 & Subnet Mask
- - Difference between the Public & Private IP & Default VPC
+ - Difference between the Public & Private Subnet
+ - Explain Custom VPC and Subnet without IGW and Route table
  - Explain VPC, Internet Gateway, Route Tables
- - Hands on Route tables, Internet Gateways & Subnet in AWS
- - How to Create a VPC in AWS
- - Explain the concept of VPC Endpoints & Flow Logs
+ - How to Access Private instance in AWS using bastion host
+ - How to Access internet in Private Instance NAT Instance
+ - Explain the concept of NACL in AWS
+ 
  
 
   - Today Sessions Notes:
