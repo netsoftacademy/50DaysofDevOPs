@@ -1,18 +1,19 @@
-## Day 39 Getting Started with Package Management Docker
+## Getting Started our Journey with DevOps:
 
-  - Getting started with Virtualisation in Docker
-  - Explain the Architecture of Docker 
-  - Installation of Docker in Local & AWS 
-  - Explain the various objects in Docker (Images, Containers, Volumes & Networks)
-  - Explain the Docker Commands
+## Day 39 Infrastructure as a Code (IaC) Terraform
+
+ - Introduction to Infrastructure as a Code
+ - What are the challenges in IT Infrastructure without Terraform
+ - Define Terraform & Installation in AWS CLI
+ - Explain the HCL Language,Blocks and Arguments
+ - How to Execute the Infrastructure (Init, Plan & Apply)
  
+
   - Today Sessions Notes, Important Cheat sheets 
   - Link
-  - Docker Interview Questions
+  - Terraform Interview Questions
   - Link
 
+  - Student work: Write an Article & post it on LinkedIn of Terraform, Installation, Terraform Providers
 
-  - Student work: Write an Article & post it on LinkedIn of Virtualisation, installation of Docker & Commands
-
- [← Previous Day](../day38/README.md) | [Next Day →](../day40/README.md)
-
+ [← Previous Day](../day38/README.md) | [Next Day →](../day/40/README.md)
