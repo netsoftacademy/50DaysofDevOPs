@@ -1,4 +1,4 @@
-## Day 12 EC2 Solution Architect Level & Instance Storage (Part 2)
+## Day 12 EC2 Solution Architect Level & Instance Storage (Part 3)
 
  - Difference between Public vs Private & Elastic IP
  - What is EC2 Placement groups Hands on
