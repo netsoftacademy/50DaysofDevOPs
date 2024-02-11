@@ -1,4 +1,4 @@
-## Day 15 Load Balancers (Part -2)
+## Day 15 Load Balancers (Part -3)
 
  - Getting Started Elastic Load Balancer Sticky Sessions
  - Explain the Cross Zone Load Balancing
