@@ -45,7 +45,7 @@
   - [Artifical Intelligence in DevOps](./2024/day31/README.md)
  - [AWS Solution Architect Exam and Interview Questions on AWS](./2024/day32/README.md)
 
-### [Day 33-48 : Getting started with DevOps tools, Terraform, Docker and Kubernetes](./2024/day36/)
+### [Day 33-48 : Getting started with DevOps tools, Terraform, Docker and Kubernetes](./2024/day33/)
   - Description:-Start your DevOps Journey with Terraform, Docker and Kubernetes
   - Topics Covered: 
   - [Source Code Management Git](./2024/day33/README.md)
