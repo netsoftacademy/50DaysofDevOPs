@@ -1,4 +1,4 @@
-## Day 45 Kubernetes (Part -4)
+## Day 48 Kubernetes (Part -4)
 
   - Hands on Cluster IP, Node Port, 
   - Hands on LoadBalancer & Ingress
