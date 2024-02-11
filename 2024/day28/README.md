@@ -1,9 +1,9 @@
 ## Day 28 Networking VPC Advanced (Part -2)
 
- - Getting started with Site to Site VPN
- - Hands on Site to Site VPN
- - Explain the Transit Gateway, Traffic Mirroring
- - Explain the AWS Network Firewall
+ - Getting started with AWS VPC Cleanup
+ - How to create Network Access Control List
+ - AWS VPC Peering Questions and its realted questions
+ - Explain the AWS VPC Transit Gateway and Transit Gateway Attachments
 
  
   - Today Sessions Notes:
