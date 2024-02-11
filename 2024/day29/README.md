@@ -3,7 +3,7 @@
  - Getting started with AWS VPC Flow logs 
  - What is Site to Site VPN in AWS Virtual Private Gateway
  - Explain the Transit Gateway, Traffic Mirroring
- - Explain the Egress Onlu Internet Gatway in AWS
+ - Explain the Egress Onlu Internet Gateway in AWS
 
  
   - Today Sessions Notes:
