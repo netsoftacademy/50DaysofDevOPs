@@ -1,16 +1,16 @@
-## Day 44 Kubernetes (Part -3)
+## Day 44 Docker (Part -3)
 
-  - Hands on Secrets with YAML file
-  - Explain the Config map in Kubernetes
-  - Explain the Ingress in Kubernetes 
-  - How Services Types works in Kubernetes
+  - Explain the Docker Engine Networking, 
+  - Hands on Docker Networking with Namespaces
+  - Explain the Docker Compose with Docker file
 
  
-  - Today Sessions Notes, Important Cheat sheets, YAML File Syntax
+  - Today Sessions Notes, Important Cheat sheets 
   - Link
-  - Kubernetes Interview Questions
+  - Docker Interview Questions
   - Link
 
 
-  - Student work: Write an Article & post it on LinkedIn of above topic
-  -  [← Previous Day](../day43/README.md) | [Next Day →](../day45/README.md)
+  - Student work: Write an Article & post it on LinkedIn of Docker Engine & Docker Networking
+
+ [← Previous Day](../day43/README.md) | [Next Day →](../day45/README.md)
