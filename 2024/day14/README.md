@@ -1,16 +1,14 @@
-## Day 14 Databases in AWS
+## Day 14 Load Balancers (Part -2)
 
- - What is Database & Types of database
- - Explain the Read Replicas for Scalability
- - Hands on Amazon Relational Database Service 
- - What is Amazon Aurora & its features
+ - Getting Started Elastic Load Balancer Sticky Sessions
+ - Explain the Cross Zone Load Balancing
+ - What is SSL Certifcates, How to create Certificates Hands on
+ - Explain Auto Scaling Groups (ASG) in AWS
+ - Today Sessions Notes:
+ - Link
+ - Load Balancer in AWS M.C.Q Quiz for Exam point of View
+ - Link
 
-
-  - Today Sessions Notes:
-  - Link
-  - Databases in AWS M.C.Q Quiz for Exam point of View
-  - Link
-
-  - Student work: Write an Article & post it on LinkedIn of Databases, Amazon Aurora in AWS 
+  - Student work: Write an Article & post it on LinkedIn of Sticky Sessions & SSL Certificiates in AWS
 
  [← Previous Day](../day13/README.md) | [Next Day →](../day15/README.md)
