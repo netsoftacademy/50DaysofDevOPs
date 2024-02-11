@@ -1,4 +1,4 @@
-## Day 21 Advanced Amazon S3 (Part -2)
+## Day 21 Advanced Amazon S3 (Part -3)
 
  - Explain the Lifecycle Rules in S3
  - Overview & Hands on Storage Classes in S3
