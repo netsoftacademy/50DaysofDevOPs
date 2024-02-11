@@ -1,19 +1,18 @@
-## Day 42 Getting Started Container Orchestration Kubernetes
+## Day 42 Getting Started with Package Management Docker
 
-  - Introduction to Kubernetes & feature of Kubernetes
-  - Explain Kubernetes Architecure in Depth
-  - Explain the Concept of Node & Pod
-  - Installation of Kubernets in AWS with CLI
-  - Explain the Role of Master & Control Plane
-  
-
-  - Today Sessions Notes, Important Cheat sheets, YAML File Syntax 
+  - Getting started with Virtualisation in Docker
+  - Explain the Architecture of Docker 
+  - Installation of Docker in Local & AWS 
+  - Explain the various objects in Docker (Images, Containers, Volumes & Networks)
+  - Explain the Docker Commands
+ 
+  - Today Sessions Notes, Important Cheat sheets 
   - Link
-  - Kubernetes Interview Questions
+  - Docker Interview Questions
   - Link
 
 
-  - Student work: Write an Article & post it on LinkedIn of above topic
+  - Student work: Write an Article & post it on LinkedIn of Virtualisation, installation of Docker & Commands
 
  [← Previous Day](../day41/README.md) | [Next Day →](../day43/README.md)
 
