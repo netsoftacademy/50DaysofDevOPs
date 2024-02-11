@@ -1,17 +1,17 @@
-## Day 19 Advanced Amazon S3 (Part -2)
+## Day 19 Amazon S3 Simple Storage Service
 
- - Explain the Lifecycle Rules in S3
- - Overview & Hands on Storage Classes in S3
- - Explain the Event Notifications IAM Permissions
- - Hands on Event Notification in AWS
- - Summary of Basic & Advanced S3 in AWS
+ - Introduction with Simple Storage Service (S3)
+ - Describe the Amazon S3 use cases, S3 Buckets & Objects
+ - Explain the S3 Bucket Policies, Website Hands on
+ - How to Enable the Versioning, Replication (CRR & SRR) in S3
+ - Overview of Storage Classes S3 in AWS
 
 
   - Today Sessions Notes:
   - Link
-  - Amazon S3 Advanced  M.C.Q Quiz for Exam point of View
+  - Amazon S3 M.C.Q Quiz for Exam point of View
   - Link
 
-  - Student work: Write an Article & post it on LinkedIn of Lifecycle Rules, Event Notifications in AWS
+  - Student work: Write an Article & post it on LinkedIn of S3, Bucket Policies, Website, Versioning & Replication in AWS
 
  [← Previous Day](../day18/README.md) | [Next Day →](../day20/README.md)
