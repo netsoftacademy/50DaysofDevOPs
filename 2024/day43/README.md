@@ -1,17 +1,17 @@
-## Day 43 Kubernetes (Part -2)
+## Day 43 Docker (Part -2)
 
- - How to Create & Configuration of YAML files
-  - Explain the Kubernetes Imporant Resources
-  - Explain the kubernetes Deployment Process
-  - How to create the Services in Kubernetes
-
+  - Explain the Docker Services in Linux
+  - Hands on Docker Basic to Advanced Commands
+  - Explain the Docker Engine, interacting with Containers
+  - Hands how to create the Docker file
+  - Hands how to create the Docker-compose file with services
  
-  - Today Sessions Notes, Important Cheat sheets, YAML File Syntax 
+  - Today Sessions Notes, Important Cheat sheets 
   - Link
-  - Kubernetes Interview Questions
+  - Docker Interview Questions
   - Link
 
 
-  - Student work: Write an Article & post it on LinkedIn of above topic
+  - Student work: Write an Article & post it on LinkedIn of Docker file, Docker-Compose
 
  [← Previous Day](../day42/README.md) | [Next Day →](../day44/README.md)
