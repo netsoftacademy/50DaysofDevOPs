@@ -16,8 +16,8 @@
   - [Bash Shell Scripting Advanced (Part -2)](./2024/day06/README.md)
   - [Bash Shell Scripting Advanced (Part -3)](./2024/day07/README.md)
 
-### [Day 8-35 : Getting Started with AWS Following Services are covers IAM, EC2, S3 Bucket, VPC, Load Balancers, EKS, ECS, Artifical Intelligence in AWS, Data Analytics, Route 53, Developer tools, AWS Exam ](./2024/day08/)
-  - Description:-Start your DevOps Journey with Linux & Shell Scripting)
+### [Day 8-35 : Getting Started with AWS Following Services are covers IAM, EC2, S3 Bucket, VPC, Load Balancers, CloudWatch, CloudFront, Artifical Intelligence in AWS, Data Analytics, Route 53, Disaster Recovery, AWS Exam ](./2024/day08/)
+  - Description:-Start your DevOps Journey with AWS Services)
   - Topics Covered: 
   - [Getting started with AWS Services](./2024/day08/README.md)
   - [IAM & AWS CLI (Part-2)](./2024/day09/README.md)
@@ -46,7 +46,7 @@
  - [AWS Solution Architect Exam and Interview Questions on AWS](./2024/day32/README.md)
 
 ### [Day 33-48 : Getting started with DevOps tools, Terraform, Docker and Kubernetes](./2024/day33/)
-  - Description:-Start your DevOps Journey with Terraform, Docker and Kubernetes
+  - Description:-Start your DevOps Journey with Git, Jenkins,Terraform, Docker and Kubernetes
   - Topics Covered: 
   - [Source Code Management Git](./2024/day33/README.md)
   - [Git (Part -2)](./2024/day34/README.md)
