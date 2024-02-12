@@ -1,6 +1,6 @@
 ##   Day 3 Started with Advanced Linux (Part -2)
 
-## File Permissions Commnads
+## File Permissions Commands
 
   - chmod - Change the file Permissions (chown -u) (chown -g) (chown -o) (chown +) (chown -)
   - chown - Change the file Ownership (chown user file.txt)
