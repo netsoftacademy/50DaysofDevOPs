@@ -4,9 +4,10 @@
 
 ## Day 8 IAM & AWS CLI
 
- - IAM Introduction Users & Groups
- - IAM Users & Groups Hands on
- - Explain the IAM Policies, MFA, AWS Access CLI
+ - Explain the Identity & Access Management in AWS
+ - Explain the IAM Users & Groups Hands on
+ - Explain the IAM Policy Password Policy in AWS
+ - Hands on AWS Password Policy MFA (Multi factor Authentication)
 
   - Today Sessions Notes:
 
