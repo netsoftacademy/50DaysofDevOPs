@@ -1,10 +1,11 @@
 ## Day 9 IAM & AWS CLI (Part-2)
 
-  - Explain IAM AWS Cloud Shell 
-  - Hands on Cloud Shell 
-  - Hands on IAM Roles for AWS Services
-  - IAM Security Tool
-  - AWS Organizations & Directory Services Hands on
+  - Explain AWS CLI, AWS Configure
+  - How to Create AWS EC2 instance using CLI
+  - Explain the Roles in AWS & how to use AWS CLI without Access id 
+  - What is CloudShell !! IAM Access Advisor !!
+  - Explain thr IAM Credential Report in AWS 
+  
 
   - Today Sessions Notes:
 
