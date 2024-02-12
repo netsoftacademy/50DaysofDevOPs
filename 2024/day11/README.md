@@ -1,10 +1,11 @@
 ## Day 11 EC2 Solution Architect Level & Instance Storage (Part 2)
 
  - Difference between Public vs Private & Elastic IP
- - What is EC2 Placement groups Hands on
- - Elastic Network Interface (ENI) Hands on
- - Explain the EC2 Hibernate with Example in AWS
- - What is EBS & Snapshots in AWS Hands on
+ - Explain the types of EC2 instance in AWS
+ - Explain the AWS Pricing model Reserved, Spot & Saving Plan
+ - How to attach the Elastic/Static IP to an EC2 instance
+ - How to Detach the Elastic/Static IP | Release EIP in AWS
+   
 
   - Today Sessions Notes:
   - Link
