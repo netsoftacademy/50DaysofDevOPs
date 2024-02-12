@@ -5,7 +5,7 @@
   - Hands on Linux Basic to Advanced Commands
 ##  File and Directory operations Commands:-
   - ls (ls -l) (ls -a) (ls -h) (
-  - cd changge Directory
+  - cd change Directory
   - pwd 
   - mkdir (mkdir -p)
   - rm (rm -r) (rm -f)
