@@ -1,12 +1,9 @@
 ## Day 17 Amazon Route 53 (Part -2)
 
- - What is Health Chcks in AWS
- - Explain the Routing policy Failover, Geolocation, Geoproximity
+ - What is parent Health Chcks in AWS
+ - Explain the Routing policy Simple, Failover, Geolocation, Geoproximity
  - Hands on AWS for Route 53 policy Failover, Geolocation, Geoproximity
- - How to Register a 3rd Domain in Route 53
  - How to Clean up Section in Route 53
- - Hands on Simple, Weighted & Latency policy in AWS
-
 
   - Today Sessions Notes:
   - Link
