@@ -1,9 +1,10 @@
 ## Day 14 Load Balancers (Part -2)
 
- - Getting Started Elastic Load Balancer Sticky Sessions
- - Explain the Cross Zone Load Balancing
- - What is SSL Certifcates, How to create Certificates Hands on
- - Explain Auto Scaling Groups (ASG) in AWS
+ - What is Application Load Balancer & How to create a ALB Hands on?
+ - How Path based Routing in Application Load Balancer
+ - Explain the Network Load Balancer & Hands on NLB in AWS?
+
+
  - Today Sessions Notes:
  - Link
  - Load Balancer in AWS M.C.Q Quiz for Exam point of View
