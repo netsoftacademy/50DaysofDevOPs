@@ -4,12 +4,8 @@
  - Difference between the Public & Private Subnet
  - Explain Custom VPC and Subnet without IGW and Route table
  - Explain VPC, Internet Gateway, Route Tables
- - How to Access Private instance in AWS using bastion host
- - How to Access internet in Private Instance NAT Instance
- - Explain the concept of NACL in AWS
- 
- 
 
+ 
   - Today Sessions Notes:
   - Link
   - Networking VPC M.C.Q Quiz for Exam point of View
